@@ -15,3 +15,5 @@ Action Surge(2)
 Extra Attack(4)
 
 Mastery(Please refer to the mastery tree)
+
+kris is dum
